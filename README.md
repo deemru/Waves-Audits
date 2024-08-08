@@ -72,6 +72,7 @@ So let my work tell the story.
 
 ### Brief Audits
 
+- PepeTeam WE Bridge - [#1](https://github.com/crypto-pepe/bridge-west-contracts/issues/1) | [#2](https://github.com/crypto-pepe/bridge-west-contracts/issues/2) | [#3](https://github.com/crypto-pepe/bridge-west-contracts/issues/3) | [#4](https://github.com/crypto-pepe/bridge-west-contracts/issues/4) | [#5](https://github.com/crypto-pepe/bridge-west-contracts/issues/5)
 - StakeBooster - [#1](https://github.com/StakeBooster/SB-SC/issues/1) | [#2](https://github.com/StakeBooster/SB-gWX/issues/2) | [gauge](https://gist.github.com/deemru/813fcbc4d88950f5889327e539c637ea#file-gauge-ride) | [twap](https://gist.github.com/deemru/3e92367b1b2115064dfb84ebb56166a7#file-twap-ride)
 - PowerDAO - [#3](https://github.com/pwrdao/dapp/issues/3)
 - Waves Enterprise EAST - [#3](https://github.com/waves-enterprise/east-contract-waves/issues/3) | [#1](https://github.com/waves-enterprise/east-contract-waves/issues/1)
