@@ -22,6 +22,7 @@ Explore my professional journey and contributions through my LinkedIn and GitHub
 ### Key Contributions in the Waves Ecosystem
 
 - [w8io](https://github.com/deemru/w8io) - full-featured explorer for the Waves blockchain ([mainnet](https://w8.io), [testnet](https://testnet.w8.io)).
+- [w8io-ethereum](https://github.com/deemru/w8io-ethereum) - w8io explorer port for the Units network ([unit0-mainnet](https://unit0.w8.io), [unit0-testnet](https://unit0-testnet.w8.io)).
 - [WavesKit](https://github.com/deemru/WavesKit) - all-in-one framework for the Waves blockchain ([article](https://habr.com/ru/articles/446112/)).
 - [Waves-PHP](https://github.com/wavesplatform/waves-php) - another Waves blockchain framework tailored to common enterprise architecture.
 - [Verifiable Elliptic Curve Random Oracle (VECRO)](https://github.com/deemru/VECRO) for the Waves blockchain ([article](https://habr.com/ru/articles/449342/)).
@@ -72,6 +73,8 @@ So let my work tell the story.
 
 ### Brief Audits
 
+- WavesLands (v2) - [#5](https://github.com/waveslands/ride/issues/5)
+- Units DAO - [#1](https://github.com/104555/Units-DAO/issues/1)
 - PepeTeam WE Bridge - [#1](https://github.com/crypto-pepe/bridge-west-contracts/issues/1) | [#2](https://github.com/crypto-pepe/bridge-west-contracts/issues/2) | [#3](https://github.com/crypto-pepe/bridge-west-contracts/issues/3) | [#4](https://github.com/crypto-pepe/bridge-west-contracts/issues/4) | [#5](https://github.com/crypto-pepe/bridge-west-contracts/issues/5)
 - StakeBooster - [#1](https://github.com/StakeBooster/SB-SC/issues/1) | [#2](https://github.com/StakeBooster/SB-gWX/issues/2) | [gauge](https://gist.github.com/deemru/813fcbc4d88950f5889327e539c637ea#file-gauge-ride) | [twap](https://gist.github.com/deemru/3e92367b1b2115064dfb84ebb56166a7#file-twap-ride)
 - PowerDAO - [#3](https://github.com/pwrdao/dapp/issues/3)
